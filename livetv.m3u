@@ -1,0 +1,107 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
+#-------------------VTV-------------------#
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 HD
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv2-hd_16565576783.png", VTV2 HD
+udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv3-hd_165657381668.png", VTV3 HD
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv4-hd_165657382285.png", VTV4 HD
+udp://@225.1.2.20:30120
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv5-hd_165657382858.png", VTV5 HD
+udp://@225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/OTT/2022/10/10/icon_channel_vtv-can-tho_166537074507.jpg", VTV Cần Thơ
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv7-hd_165655773646.png", VTV7
+udp://@225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv8-hd_165657496167.png", VTV8
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv9-hd_165657032671.png", VTV9
+udp://@225.1.1.128:30120
+
+#-------------------HTV-------------------#
+#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv1_165655706945.png", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv2_165657612334.png", HTV2 Vie Channel
+udp://@225.1.1.193:30120
+#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv3_165655827991.png", HTV3 Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv4_165647670055.png", HTV Keys
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv7-hd_16565582880.png", HTV7
+udp://@225.1.1.192:30120
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv9-hd_165655829886.png", HTV9
+udp://@225.1.1.190:30120
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-the-thao_165649315483.png", HTV THỂ THAO
+udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-phim_165649310755.png", HTVC Phim
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/10/icon_channel_htvc-thuan-viet-hd_168110078414.jpg", Thuần Việt
+udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-gia-dinh_165649309084.png", HTVC Gia Đình
+udp://@225.1.1.170:30120
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-phu-nu_165649324998.png", HTVC Phụ Nữ
+udp://@225.1.1.171:30120
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-du-lich_165649303894.png", HTVC Du Lịch và Cuộc Sống
+udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-ca-nhac_165649309816.png", HTVC Ca Nhạc
+udp://@225.1.1.185:30120
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-plus_165657613324.png", HTVC+
+udp://@225.1.1.181:30120
+
+#-------------------Địa phương-------------------#
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thvl1_165657384745.png", THVL1
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-2_165657385615.png", THVL2
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-3_165657386388.png", THVL3
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4
+udp://@225.1.2.25:30120
+#EXTINF:-1 tvg-id="quangnam" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_quang-nam_165649251762.png", QRT
+udp://@225.1.2.50:30120
+#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-nang-1_165649298766.png", DaNangTV1
+udp://@225.1.1.147:30120
+#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-nang-2_165649299588.png", DaNangTV2
+udp://@225.1.1.146:30120
+
+#-------------------Quốc Tế-------------------#
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_hbo_165647605697.png", HBO
+udp://@225.1.4.90:30120
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg", Cartoon Network
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg", BBC CbeeBies
+udp://@225.1.1.134:30120
+#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế "tvg-logo="https://img.lichphatsong.xyz/logo/animaxhd.jpg", Animax
+udp://@225.1.1.135:30120
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg", Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png", AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcearth.jpg", BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png", Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg", Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg", Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/dreamworks.jpg", Dreamworks
+udp://@225.1.1.136:30120
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/dw.jpg", DW
+udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/fashionhd.png", Fashion TV
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/kbsworld.jpg", KBS World
+udp://@225.1.1.196:30120
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/nhkworld.png", NHK World Japan
+udp://@225.1.1.47:30120
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg", Outdoor Channel
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/tlc.jpg", TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_asian-food-channel_165649221342.png", Asian Food Network
+udp://@225.1.1.198:30120
+# #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="", WBTV
+# udp://@225.1.1.139:30120
