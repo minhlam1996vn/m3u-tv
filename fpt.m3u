@@ -122,10 +122,10 @@ https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3
 #-------------------Kênh HBO-------------------#
 #EXTINF:-1 group-title="Kênh HBO" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png", HBO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://qnet-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh HBO" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg", CINEMAX
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://qnet-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 #-------------------Kênh Quốc Tế-------------------#
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png", AVN Giải Trí Quốc Tế
