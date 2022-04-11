@@ -261,3 +261,5 @@ https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Miễn Phí" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg", HaNoiTV 2
 https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Miễn Phí" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_164664652825.jpg", Quảng Nam
+https://livecdn.fptplay.net/sdc/quangnam_2000.stream/chunklist.m3u8
