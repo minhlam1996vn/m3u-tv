@@ -229,7 +229,7 @@ https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/binhphuoc1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Miễn Phí" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg", Bình Phước 2 HD
 https://livecdn.fptplay.net/sdc/binhphuoc2_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh Miễn Phí" tvg-logo="	https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg", Bình Thuận HD
+#EXTINF:-1 group-title="Kênh Miễn Phí" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg", Bình Thuận HD
 https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Miễn Phí" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_164664647387.jpg", Cà Mau HD
 https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
