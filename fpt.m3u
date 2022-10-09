@@ -109,20 +109,20 @@ https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cbeebies_15233280024.png", CBeebies BBC
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_music_164455241387.jpg", Music Box
-https://vips-livecdn.fptplay.net/hda3/music_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png", CNN Tin Tức Quốc Tế
-https://vips-livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/cnn_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg", BBC Earth Thế Giới Thiên Nhiên
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png", BBC World News
-https://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbcnews_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg", BBC Lifestyle Ý Tưởng Cuộc Sống
-https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png", Bloomberg Tin Tức Tài Chính Kinh Doanh
-https://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png", ABC Australia Giải Trí Giáo Dục
-https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_16564921977.png", National Geographic HD
+https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_164671491947.jpg", Discovery Khoa Học Công Nghệ
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png", Discovery Asia Khoa Học Công Nghệ
