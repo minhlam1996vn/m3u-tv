@@ -1,8 +1,6 @@
 #EXTM3U
 
 #-------------------Kênh Cơ Bản-------------------#
-#EXTINF:-1 group-title="Kênh Cơ Bản" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fpt-play_16564756306.png", FPT Play
-https://vips-livecdn.fptplay.net/hda1/f-channel1_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Cơ Bản" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh Cơ Bản" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2-hd_16565576783.png", VTV2 HD
