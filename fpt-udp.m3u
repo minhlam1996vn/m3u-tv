@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz, https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#EXTM3U
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_165657381026.png", VTV1
