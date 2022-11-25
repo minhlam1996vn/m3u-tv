@@ -377,23 +377,3 @@ https://vips-livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg", HaNoiTV 1
 https://vips-livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
-
-#-------------------VTV UDP-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 UDP
-udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2-hd_16565576783.png", VTV2 UDP
-udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_165657381668.png", VTV3 UDP
-udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4-hd_165657382285.png", VTV4 UDP
-udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_165657382858.png", VTV5 UDP
-udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/OTT/2022/10/10/icon_channel_vtv6-hd_166533802151.png", VTV6 Cần Thơ UDP
-udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_165655773646.png", VTV7 UDP UDP
-udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_165657496167.png", VTV8 UDP
-udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV UDP" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9-hd_165657032671.png", VTV9 UDP
-udp://@225.1.1.128:30120
