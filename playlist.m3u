@@ -1,23 +1,14 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
-#--- VTV ---#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_165657381026.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
-https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2-hd_16565576783.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2
-https://code.vthanhtivi.pw/getlink/mytv/377/hd.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_165657381668.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3
-https://code.vthanhtivi.pw/getlink/mytv/211/hd.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4-hd_165657382285.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8", VTV4
-https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_165657382858.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5
-https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/OTT/2022/10/10/icon_channel_vtv6-hd_166533802151.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ
-https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_165655773646.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7
-https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_165657496167.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8
-https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9-hd_165657032671.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9
-https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ
-https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+#--- K+ ---#
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kpm_165655722566.png", K+ SPORT1
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kpc_165655724357.png", K+ SPORT2
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_k1_16565571103.png", K+ CINE
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_kns_165655713016.png", K+ LIFE
+https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://images.fptplay.net/media/channels/OTT/2022/10/07/icon_channel_k-kids-hd_16651153548.jpg", K+ KIDS
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
