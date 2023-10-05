@@ -24,3 +24,35 @@ https://minhlamit.myvnc.com/livetv/vtv7-hd/playlist.m3u8
 https://minhlamit.myvnc.com/livetv/vtv8-hd/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_480_270.png",VTV9
 https://minhlamit.myvnc.com/livetv/vtv9-hd/playlist.m3u8
+
+#-------------------VTC-------------------#
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/188.png",VTC1 HD
+https://minhlamit.myvnc.com/livetv/vtc1-hd/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/20.png",VTC2
+https://minhlamit.myvnc.com/livetv/vtc2/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/192.png",VTC3 HD
+https://minhlamit.myvnc.com/livetv/vtc3-hd/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/396.png",VTC4
+https://minhlamit.myvnc.com/livetv/vtc4-hd/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/397.png",VTC5 HD
+https://minhlamit.myvnc.com/livetv/vtc5-hd/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/22.png",VTC6
+https://minhlamit.myvnc.com/livetv/vtc6/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/398.png",VTC7 HD
+https://minhlamit.myvnc.com/livetv/vtc7-hd/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/24.png",VTC8
+https://minhlamit.myvnc.com/livetv/vtc8/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/399.png",VTC9 HD
+https://minhlamit.myvnc.com/livetv/vtc9/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/29.png",VTC10
+https://minhlamit.myvnc.com/livetv/vtc10/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/30.png",VTC11
+https://minhlamit.myvnc.com/livetv/vtc11/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/463.png",VTC12
+https://minhlamit.myvnc.com/livetv/vtc12/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/184.png",VTC13 HD
+https://minhlamit.myvnc.com/livetv/vtc13-hd/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/32.png",VTC14 HD
+https://minhlamit.myvnc.com/livetv/vtc14-hd/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/33.png",VTC16 HD
+https://minhlamit.myvnc.com/livetv/vtc16-hd/playlist.m3u8
