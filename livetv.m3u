@@ -2,83 +2,83 @@
 
 #-------------------VTV-------------------#
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv1-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png",VTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv2-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png",VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv3-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png",VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv4-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_480_270.png",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_480_270.png",VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv5-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515444588/34459b1f8ea5_480_270.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515444588/34459b1f8ea5_480_270.png",VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv5-tay-nguyen/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515518939/7cb734c81a19_480_270.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515518939/7cb734c81a19_480_270.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv5-tay-nam-bo/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01_480_270.png",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01_480_270.png",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv-can-tho/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_480_270.png",VTV7
+#EXTINF:-1 tvg-id=vtv7hd"" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_480_270.png",VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv7-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_480_270.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_480_270.png",VTV8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv8-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_480_270.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_480_270.png",VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv9-hd/playlist.m3u8
 
 #-------------------VTC-------------------#
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/188.png",VTC1 HD
+#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/188.png",VTC1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc1-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/20.png",VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/20.png",VTC2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc2/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/192.png",VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/192.png",VTC3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc3-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/396.png",VTC4
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/396.png",VTC4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc4-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/397.png",VTC5 HD
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/397.png",VTC5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc5-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/22.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/22.png",VTC6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc6/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/398.png",VTC7 HD
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/398.png",VTC7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc7-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/24.png",VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/24.png",VTC8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc8/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/399.png",VTC9 HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/399.png",VTC9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc9/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/29.png",VTC10
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/29.png",VTC10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc10/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/30.png",VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/30.png",VTC11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc11/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/463.png",VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/463.png",VTC12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc12/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/184.png",VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/184.png",VTC13 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc13-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/32.png",VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/32.png",VTC14 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc14-hd/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/33.png",VTC16 HD
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/33.png",VTC16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc16-hd/playlist.m3u8
