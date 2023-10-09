@@ -82,3 +82,28 @@ https://minhlamit.myvnc.com/livetv/vtc14-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/33.png",VTC16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc16-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="",HTV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv1-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="",HTV2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv2-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="",HTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv3/playlist.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="",HTV KEY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv-key/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="",HTV7 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv7-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="",HTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv9-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv-the-thao/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="",HTV Co-op
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htv-co-op/playlist.m3u8
