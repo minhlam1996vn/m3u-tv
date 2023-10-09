@@ -83,6 +83,7 @@ https://minhlamit.myvnc.com/livetv/vtc14-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtc16-hd/playlist.m3u8
 
+#-------------------HTV-------------------#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/7.png",HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/htv1/playlist.m3u8
