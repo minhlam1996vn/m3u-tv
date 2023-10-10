@@ -48,6 +48,9 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/81351.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/203.png",On Sports+ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/81349.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/415.png",On GolfENG HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/onlive/ongolf/81347.m3u8
 
 #-------------------VTC-------------------#
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/188.png",VTC1 HD
