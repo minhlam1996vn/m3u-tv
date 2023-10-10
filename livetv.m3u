@@ -108,3 +108,32 @@ https://minhlamit.myvnc.com/livetv/htv-the-thao/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/402721-HTVCoop.png",HTV Co-op
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/htv-co-op/playlist.m3u8
+
+#-------------------HTVC-------------------#
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-thuan-viet/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="",HTVC Thuần Việt HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-thuan-viet-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="",HTVC Plus
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-plus/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="",HTVC Du Lịch Cuộc Sống
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-du-lich-cuoc-song/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-ca-nhac/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="",HTVC Phim
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-phim/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-gia-dinh/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-phu-nu/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="HTVC" tvg-logo="",HTVC Home Shopping
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/livetv/htvc-home-shopping/playlist.m3u8
