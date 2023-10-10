@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 #-------------------VTV-------------------#
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv1-hd/playlist.m3u8
@@ -35,6 +34,20 @@ https://minhlamit.myvnc.com/livetv/vtv8-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_480_270.png",VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv9-hd/playlist.m3u8
+
+#-------------------VTV Cab-------------------#
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/208.png",On Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/onlive/onfootball/81352.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/200.png",On Sports HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/onlive/onsports/81350.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/441.png",On Sports News HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/81351.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/203.png",On Sports+ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/81349.m3u8
 
 #-------------------VTC-------------------#
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/188.png",VTC1 HD
