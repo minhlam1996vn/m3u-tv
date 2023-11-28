@@ -66,6 +66,15 @@ https://minhlamit.myvnc.com/stream/k-action/playlist.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_480_270.png",K+ Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/stream/k-kids/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg",K+ Live 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/stream/k-live-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg",K+ Live 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/stream/k-live-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg",K+ Live 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/stream/k-live-3/playlist.m3u8
 
 #-------------------VTC-------------------#
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/188.png",VTC1 HD
