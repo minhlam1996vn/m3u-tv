@@ -39,19 +39,33 @@ https://minhlamit.myvnc.com/livetv/vtv9-hd/playlist.m3u8
 #-------------------VTV Cab-------------------#
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/208.png",On Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/onlive/onfootball/81352.m3u8
+https://minhlamit.myvnc.com/stream/on-football-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/200.png",On Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/onlive/onsports/81350.m3u8
+https://minhlamit.myvnc.com/stream/on-sport-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/441.png",On Sports News HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/81351.m3u8
+https://minhlamit.myvnc.com/stream/on-sport-news/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/203.png",On Sports+ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/81349.m3u8
-#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/415.png",On GolfENG HD
+https://minhlamit.myvnc.com/stream/on-sport-plus/playlist.m3u8
+
+#-------------------K Plus-------------------#
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/24/16/1677229856875/00ec39651e4c_480_270.png",K+ Sport1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/onlive/ongolf/81347.m3u8
+https://minhlamit.myvnc.com/stream/k-sport-1/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985364950/60e55bc8f45a_480_270.png",K+ Sport2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/stream/k-sport-2/playlist.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png",K+ Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/stream/k-cine/playlist.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985751199/97936738e7a0_480_270.png",K+ action
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/stream/k-action/playlist.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_480_270.png",K+ Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://minhlamit.myvnc.com/stream/k-kids/playlist.m3u8
 
 #-------------------VTC-------------------#
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/188.png",VTC1 HD
