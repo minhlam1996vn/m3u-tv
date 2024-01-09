@@ -46,3 +46,12 @@ https://minhlamit.myvnc.com/api/livetv/on-sports-news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/203.png",On Sports+ HD
 https://minhlamit.myvnc.com/api/livetv/on-sports-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab" tvg-logo="https://webapi.mytv.vn/static/channel/415.png",On Golf HD
+https://minhlamit.myvnc.com/api/livetv/on-golf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760880835/9ba1d38679e0_480_270.png",On Kids
+https://minhlamit.myvnc.com/api/livetv/on-kids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://webapi.mytv.vn/static/channel/205.png",On BiBi
+https://minhlamit.myvnc.com/api/livetv/on-bibi/playlist.m3u8
