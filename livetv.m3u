@@ -35,14 +35,14 @@ https://minhlamit.myvnc.com/api/livetv/vtv8/playlist.m3u8
 https://minhlamit.myvnc.com/api/livetv/vtv9/playlist.m3u8
 
 #-------------------VTV Cab-------------------#
-#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/208.png",On Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/208.png",On Football HD
 https://minhlamit.myvnc.com/api/livetv/on-football/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/200.png",On Sports HD
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/200.png",On Sports HD
 https://minhlamit.myvnc.com/api/livetv/on-sports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/441.png",On Sports News HD
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/441.png",On Sports News HD
 https://minhlamit.myvnc.com/api/livetv/on-sports-news/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/203.png",On Sports+ HD
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/203.png",On Sports+ HD
 https://minhlamit.myvnc.com/api/livetv/on-sports-plus/playlist.m3u8
