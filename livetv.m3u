@@ -17,10 +17,10 @@ https://minhlamit.myvnc.com/api/livetv/vtv4/playlist.m3u8
 https://minhlamit.myvnc.com/api/livetv/vtv5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515444588/34459b1f8ea5_480_270.png",VTV5 Tây Nguyên
-https://minhlamit.myvnc.com/api/livetv/vtv-tn/playlist.m3u8
+https://minhlamit.myvnc.com/api/livetv/vtv5-tn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515518939/7cb734c81a19_480_270.png",VTV5 Tây Nam Bộ
-https://minhlamit.myvnc.com/api/livetv/vtv-tnb/playlist.m3u8
+https://minhlamit.myvnc.com/api/livetv/vtv5-tnb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01_480_270.png",VTV Cần Thơ
 https://minhlamit.myvnc.com/api/livetv/vtv-can-tho/playlist.m3u8
