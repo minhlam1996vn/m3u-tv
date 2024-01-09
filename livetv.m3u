@@ -2,11 +2,8 @@
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png",VTV1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/livetv/vtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png",VTV2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://minhlamit.myvnc.com/api/livetv/vtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png",VTV3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.antmediatv.xyz/getplay/2192b645d3709f880613024a6550ddaff01c95ee363816c41efe0f63da14cdb2c4/tv360/2/2.m3u8
