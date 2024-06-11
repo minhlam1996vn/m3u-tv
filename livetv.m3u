@@ -1,57 +1,21 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+#EXTM3U
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png",VTV1 HD
-https://minhlamit.myvnc.com/api/livetv/vtv1/playlist.m3u8
-
+udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png",VTV2 HD
-https://minhlamit.myvnc.com/api/livetv/vtv2/playlist.m3u8
-
+udp://@225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png",VTV3 HD
-https://minhlamit.myvnc.com/api/livetv/vtv3/playlist.m3u8
-
+udp://@225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png",VTV4 HD
-https://minhlamit.myvnc.com/api/livetv/vtv4/playlist.m3u8
-
+udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_480_270.png",VTV5 HD
-https://minhlamit.myvnc.com/api/livetv/vtv5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515444588/34459b1f8ea5_480_270.png",VTV5 Tây Nguyên
-https://minhlamit.myvnc.com/api/livetv/vtv5-tn/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515518939/7cb734c81a19_480_270.png",VTV5 Tây Nam Bộ
-https://minhlamit.myvnc.com/api/livetv/vtv5-tnb/playlist.m3u8
-
+udp://@225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01_480_270.png",VTV Cần Thơ
-https://minhlamit.myvnc.com/api/livetv/vtv-can-tho/playlist.m3u8
-
+udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_480_270.png",VTV7
-https://minhlamit.myvnc.com/api/livetv/vtv7/playlist.m3u8
-
+udp://@225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_480_270.png",VTV8
-https://minhlamit.myvnc.com/api/livetv/vtv8/playlist.m3u8
-
+udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_480_270.png",VTV9
-https://minhlamit.myvnc.com/api/livetv/vtv9/playlist.m3u8
-
-#-------------------VTV Cab-------------------#
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/208.png",On Football HD
-https://minhlamit.myvnc.com/api/livetv/on-football/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/200.png",On Sports HD
-https://minhlamit.myvnc.com/api/livetv/on-sports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/441.png",On Sports News HD
-https://minhlamit.myvnc.com/api/livetv/on-sports-news/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/203.png",On Sports+ HD
-https://minhlamit.myvnc.com/api/livetv/on-sports-plus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab" tvg-logo="https://webapi.mytv.vn/static/channel/415.png",On Golf HD
-https://minhlamit.myvnc.com/api/livetv/on-golf/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760880835/9ba1d38679e0_480_270.png",On Kids
-https://minhlamit.myvnc.com/api/livetv/on-kids/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://webapi.mytv.vn/static/channel/205.png",On BiBi
-https://minhlamit.myvnc.com/api/livetv/on-bibi/playlist.m3u8
+udp://@225.1.1.128:30120
