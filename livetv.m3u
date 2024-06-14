@@ -21,17 +21,51 @@ udp://@225.1.2.166:30120
 udp://@225.1.1.128:30120
 
 #-------------------Địa phương-------------------#
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thvl1_165657384745.png", THVL1
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thvl1_165657384745.png", THVL1
 udp://@225.1.1.155:30120
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-2_165657385615.png", THVL2
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-2_165657385615.png", THVL2
 udp://@225.1.1.154:30120
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-3_165657386388.png", THVL3
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-3_165657386388.png", THVL3
 udp://@225.1.1.235:30120
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4
 udp://@225.1.2.25:30120
 
 #-------------------Quốc Tế-------------------#
-#EXTINF:-1 group-title="Quốc Tế", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_hbo_165647605697.png", HBO
-udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="Quốc Tế", tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", CARTOON NETWORK
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_hbo_165647605697.png", HBO
+udp://@225.1.4.90:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", CARTOON NETWORK
 udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="Quốc Tế (HD) "tvg-logo="", Animax
+udp://@225.1.1.135:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", AXN
+udp://@225.1.2.225:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", BBC CbeeBies
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", BBC Earth
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Da Vinci
+udp://@225.1.1.197:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Discovery Asia
+udp://@225.1.2.223:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Discovery Channel
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Dreamworks
+udp://@225.1.1.136:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", DW
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Fashion TV
+udp://@225.1.2.227:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", KBS WORLD
+udp://@225.1.1.196:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", NHK WORLD JAPAN
+udp://@225.1.1.47:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Outdoor Channel
+udp://@225.1.2.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", WBTV
+udp://@225.1.1.139:30120
