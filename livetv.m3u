@@ -1,21 +1,31 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv1-hd_165657381026.png",VTV1 HD
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv2-hd_16565576783.png",VTV2 HD
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv3-hd_165657381668.png",VTV3 HD
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv4-hd_165657382285.png",VTV4 HD
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_480_270.png",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv5-hd_165657382858.png",VTV5 HD
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01_480_270.png",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/OTT/2022/10/10/icon_channel_vtv-can-tho_166537074507.jpg",VTV Cần Thơ
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_480_270.png",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv7-hd_165655773646.png",VTV7
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_480_270.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv8-hd_165657496167.png",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_480_270.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vtv9-hd_165657032671.png",VTV9
 udp://@225.1.1.128:30120
+
+#-------------------Địa phương-------------------#
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thvl1_165657384745.png", THVL1 HD (HD 8Mbps)
+udp://@225.1.1.155:30120
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-2_165657385615.png", THVL2 HD (HD 8Mbps)
+udp://@225.1.1.154:30120
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-3_165657386388.png", THVL3 HD (HD 8Mbps)
+udp://@225.1.1.235:30120
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4 HD (HD 8Mbps)
+udp://@225.1.2.25:30120
