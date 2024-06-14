@@ -71,31 +71,31 @@ udp://@225.1.1.236:30120
 # udp://@225.1.1.139:30120
 
 #-------------------HTV-------------------#
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTV1
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv1_165655706945.png", HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTV2 Vie Channel
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv2_165657612334.png", HTV2 Vie Channel
 udp://@225.1.1.193:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTV3 Dreams TV
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv3_165655827991.png", HTV3 Dreams TV
 udp://@225.1.1.178:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTV Keys
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv4_165647670055.png", HTV Keys
 udp://@225.1.1.177:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTV7
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv7-hd_16565582880.png", HTV7
 udp://@225.1.1.192:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTV9
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htv9-hd_165655829886.png", HTV9
 udp://@225.1.1.190:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTV THỂ THAO
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-the-thao_165649315483.png", HTV THỂ THAO
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTVC Phim
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-phim_165649310755.png", HTVC Phim
 udp://@225.1.1.184:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", Thuần Việt
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/10/icon_channel_htvc-thuan-viet-hd_168110078414.jpg", Thuần Việt
 udp://@225.1.1.186:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTVC Gia Đình
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-gia-dinh_165649309084.png", HTVC Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTVC Phụ Nữ
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-phu-nu_165649324998.png", HTVC Phụ Nữ
 udp://@225.1.1.171:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTVC Du Lịch và Cuộc Sống
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-du-lich_165649303894.png", HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTVC Ca Nhạc
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-ca-nhac_165649309816.png", HTVC Ca Nhạc
 udp://@225.1.1.185:30120
-#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="", HTVC+
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-plus_165657613324.png", HTVC+
 udp://@225.1.1.181:30120
