@@ -35,37 +35,37 @@ udp://@225.1.2.25:30120
 udp://@225.1.4.90:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png", CARTOON NETWORK
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Animal Planet
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD) "tvg-logo="", Animax
+#EXTINF:-1 group-title="Quốc Tế "tvg-logo="", Animax
 udp://@225.1.1.135:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Asian Food Network
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", AXN
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", BBC CbeeBies
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", BBC CbeeBies
 udp://@225.1.1.134:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", BBC Earth
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", BBC Earth
 udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Da Vinci
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Da Vinci
 udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Discovery Asia
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Discovery Asia
 udp://@225.1.2.223:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Discovery Channel
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Dreamworks
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Dreamworks
 udp://@225.1.1.136:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", DW
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", DW
 udp://@225.1.1.46:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Fashion TV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Fashion TV
 udp://@225.1.2.227:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", KBS WORLD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", KBS WORLD
 udp://@225.1.1.196:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", NHK WORLD JAPAN
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", NHK WORLD JAPAN
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", Outdoor Channel
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", Outdoor Channel
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", TLC
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="", WBTV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="", WBTV
 udp://@225.1.1.139:30120
