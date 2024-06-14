@@ -21,11 +21,11 @@ udp://@225.1.2.166:30120
 udp://@225.1.1.128:30120
 
 #-------------------Địa phương-------------------#
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thvl1_165657384745.png", THVL1 HD (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thvl1_165657384745.png", THVL1
 udp://@225.1.1.155:30120
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-2_165657385615.png", THVL2 HD (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-2_165657385615.png", THVL2
 udp://@225.1.1.154:30120
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-3_165657386388.png", THVL3 HD (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-3_165657386388.png", THVL3
 udp://@225.1.1.235:30120
-#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4 HD (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương", tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4
 udp://@225.1.2.25:30120
