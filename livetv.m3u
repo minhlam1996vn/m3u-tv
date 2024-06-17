@@ -121,7 +121,7 @@ udp://@225.1.1.47:30120
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/tlc.jpg", TLC
 udp://@225.1.1.236:30120
-# #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="", Asian Food Network
-# udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_asian-food-channel_165649221342.png", Asian Food Network
+udp://@225.1.1.198:30120
 # #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="", WBTV
 # udp://@225.1.1.139:30120
