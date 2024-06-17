@@ -50,6 +50,34 @@ udp://@225.1.1.185:30120
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_htvc-plus_165657613324.png", HTVC+
 udp://@225.1.1.181:30120
 
+#-------------------VTC-------------------#
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png", VTC1
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/1FccD2h.png", VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png", VTC3
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png", VTC4
+udp://@225.1.2.200:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png", VTC5
+udp://@225.1.2.199:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/rTxMJIB.png", VTC6
+udp://@225.1.2.198:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png", VTC7
+udp://@225.1.2.197:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png", VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png", VTC9
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png", VTC10
+udp://@225.1.2.194:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/RoTy0Ly.png", VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png", VTC13
+udp://@225.1.2.250:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png", VTC14
+udp://@225.1.2.88:30120
+
 #-------------------Địa phương-------------------#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_thvl1_165657384745.png", THVL1
 udp://@225.1.1.155:30120
