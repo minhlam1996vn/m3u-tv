@@ -68,15 +68,15 @@ udp://@225.1.2.197:30120
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png", VTC8
 udp://@225.1.2.196:30120
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png", VTC9
-udp://@225.1.2.251:30120
+udp://@225.1.2.195:30120
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png", VTC10
 udp://@225.1.2.194:30120
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://imgur.com/RoTy0Ly.png", VTC11
 udp://@225.1.2.193:30120
 #EXTINF:-1 tvg-id="" group-title="VTC" tvg-logo="https://imgur.com/qAOy5Cd.png", VTC12
-udp://@225.1.2.51:30120
+udp://@225.1.2.192:30120
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png", VTC13
-udp://@225.1.2.250:30120
+udp://@225.1.4.52:30120
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png", VTC14
 udp://@225.1.2.88:30120
 
