@@ -85,6 +85,12 @@ udp://@225.1.1.154:30120
 udp://@225.1.1.235:30120
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4
 udp://@225.1.2.25:30120
+#EXTINF:-1 tvg-id="quangnam" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_quang-nam_165649251762.png", QRT
+udp://@225.1.2.50:30120
+#EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-nang-1_165649298766.png", DaNangTV1
+udp://@225.1.1.147:30120
+#EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-nang-2_165649299588.png", DaNangTV2
+udp://@225.1.1.146:30120
 
 #-------------------Quốc Tế-------------------#
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_hbo_165647605697.png", HBO
